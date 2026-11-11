@@ -13,19 +13,24 @@ I have 16+ years of experience in software development, with deep expertise in C
 
 ## Independent research
 
-**[Autonomous Code Review: Hidden-Test Results on GitHub Issues](https://arxiv.org/abs/2611.10098)**
+<details>
+<summary>Autonomous Code Review: Hidden-Test Results on GitHub Issues</summary>
+
 
 I evaluated cross-provider LLM review and author-model revision on 12 historical GitHub issues. Of 48 planned workflows, 40 completed; none changed hidden-test pass/fail status after review. The result describes this tested setup and does not establish that LLM review is ineffective in general.
 
 [Paper (arXiv)](https://arxiv.org/abs/2611.10098) · [Code, data and analysis](https://github.com/AdamShakhabov/autonomous-code-review-study)
 
-Independent arXiv preprint; not peer reviewed. The public package supports numerical reanalysis, not full benchmark replay.
+</details>
 
-**[Debugging Agent Skills: Root-Cause Diagnosis Experiment](https://github.com/AdamShakhabov/debugging-agent-skills)**
+<details>
+<summary>Debugging Agent Skills: Root-Cause Diagnosis Experiment</summary>
 
 I compared three debugging skills with a no-skill control across 120 Codex runs on 10 SWE-bench Verified issues, measuring root-cause diagnosis accuracy, token use and runtime. No skill improved observed accuracy over the control in this sample; all used more tokens on average. This exploratory result is limited by ceiling effects and a single LLM judge.
 
-[Report, data and analysis](https://github.com/AdamShakhabov/debugging-agent-skills)
+[Code, data and analysis](https://github.com/AdamShakhabov/debugging-agent-skills)
+
+</details>
 
 ## Areas of expertise
 
