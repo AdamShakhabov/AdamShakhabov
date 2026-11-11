@@ -21,6 +21,12 @@ I evaluated cross-provider LLM review and author-model revision on 12 historical
 
 Independent arXiv preprint; not peer reviewed. The public package supports numerical reanalysis, not full benchmark replay.
 
+**[Debugging Agent Skills: Root-Cause Diagnosis Experiment](https://github.com/AdamShakhabov/debugging-agent-skills)**
+
+I compared three debugging skills with a no-skill control across 120 Codex runs on 10 SWE-bench Verified issues, measuring root-cause diagnosis accuracy, token use and runtime. No skill improved observed accuracy over the control in this sample; all used more tokens on average. This exploratory result is limited by ceiling effects and a single LLM judge.
+
+[Report, data and analysis](https://github.com/AdamShakhabov/debugging-agent-skills)
+
 ## Areas of expertise
 
 C#/.NET · Open XML · Document Automation · MCP · AI Integrations · LLM Evaluations · Developer Tooling
