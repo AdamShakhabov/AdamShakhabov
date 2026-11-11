@@ -17,7 +17,7 @@ I have 16+ years of experience in software development, with deep expertise in C
 
 I evaluated cross-provider LLM review and author-model revision on 12 historical GitHub issues. Of 48 planned workflows, 40 completed; none changed hidden-test pass/fail status after review. The result describes this tested setup and does not establish that LLM review is ineffective in general.
 
-[Paper (arXiv)](https://arxiv.org/abs/2611.10098) · [Code, data and analysis](https://github.com/AdamShakhabov/autonomous-code-review-study) · [LinkedIn discussion](https://www.linkedin.com/posts/adamshakhabov_autonomous-code-review-hidden-test-results-ugcPost-7520595275229433856--4em/)
+[Paper (arXiv)](https://arxiv.org/abs/2611.10098) · [Code, data and analysis](https://github.com/AdamShakhabov/autonomous-code-review-study)
 
 Independent arXiv preprint; not peer reviewed. The public package supports numerical reanalysis, not full benchmark replay.
 
